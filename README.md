@@ -6,6 +6,10 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
-## Purpose - Another Second Level Heading
+## Introduction - Another Second Level Heading
 
-Sample website with plenty of files for demos
+Introduction to sample website with plenty of files for demos
+
+## Development
+
+Development using git
